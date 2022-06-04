@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufkkm
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently Studying Software Engineering
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me @ yusufmuhdkk@gmail.com
 
